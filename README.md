@@ -1,7 +1,7 @@
 # NFL-Score-Estimator
 
 This code takes 2 user's inputs of abbreviations for NFL teams and estimates a score for a theoretical game between the teams based on their past performances in the given season.
-These are the abbreviations for all 32 NFL teams:
+These are the abbreviations for all 32 NFL teams. Type exactly the 3 letter abbreviation, case sensitively:
 - crd (Cardinals)
 - atl (Falcons)
 - rav (Ravens)
