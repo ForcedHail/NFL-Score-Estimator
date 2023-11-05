@@ -2,14 +2,14 @@
 
 This code takes 2 user's inputs of abbreviations for NFL teams and estimates a score for a theoretical game between the teams based on their past performances in the given season.
 These are the abbreviations for all 32 NFL teams:
--crd (Cardinals)
--atl (Falcons)
--rav (Ravens)
--buf (Bills)
--car (Panthers)
--chi (Bears)
--cin (Bengals)
--cle (Browns)
+- crd (Cardinals)
+- atl (Falcons)
+- rav (Ravens)
+- buf (Bills)
+- car (Panthers)
+- chi (Bears)
+- cin (Bengals)
+- cle (Browns)
 -dal (Cowboys)
 -den (Broncos)
 -det (Lions)
