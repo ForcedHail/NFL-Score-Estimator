@@ -1,6 +1,6 @@
 # NFL-Score-Estimator
 
-This code takes 2 user's inputs of abbreviations for NFL teams and estimates a score and each team's passing and rushing yards for a theoretical game between the teams based on their past performances in the given season.
+Entering 1 initially takes 2 user's inputs of abbreviations for NFL teams and a year and estimates a score and each team's passing and rushing yards for a theoretical game between the teams based on their past performances in the given season.
 These are the abbreviations for all 32 NFL teams. Type exactly the 3 letter abbreviation, case sensitively:
 - crd (Cardinals)
 - atl (Falcons)
@@ -34,3 +34,7 @@ These are the abbreviations for all 32 NFL teams. Type exactly the 3 letter abbr
 - tam (Buccaneers)
 - oti (Titans)
 - was (Commanders)
+
+Entering 2 initially takes the user's inputs of player position (QB, RB, WR, TE only) and his name and predicts their fantasy points for the upcoming week.
+
+Entering 3 initally will give a 50% chance to show a hypothetical game between a random 2 of the 32 nfl teams in a given random year since the 32nd team (Texans) was introduced. The other 50% chance will show the estimated fantasy points of a random player of a random position.
